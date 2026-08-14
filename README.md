@@ -38,11 +38,12 @@ Using Claude Code, Cursor, or another coding agent? Zalcro generates a complete 
 
 See what Zalcro generates from a real project brief:
 
-- [Architecture Design Document](examples/travel-assistant/architecture-design-document.md)
-- [System Diagram](examples/travel-assistant/system-diagram.md)
-- [Prompt Pack](examples/travel-assistant/prompt-pack.md)
-- [Implementation Plan](examples/travel-assistant/tickets.md)
-- [Tickets](example/travel-assistant/tickets.md)
+- [Architecture Design Document](examples/valet-platform/architecture-design-document.md)
+- [Architecture Diagram](examples/valet-platform/architecture-diagram.md)
+- [Before You Build](examples/valet-platform/before-you-build.md)
+- [Prompt Pack](examples/valet-platform/prompt-pack.md)
+- [Implementation Plan](examples/valet-platform/implementation-plan.md)
+- [Tickets](examples/valet-platform/tickets.md)
 
 ---
 
